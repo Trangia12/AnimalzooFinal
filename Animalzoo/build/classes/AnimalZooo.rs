@@ -1,0 +1,12 @@
+Mammal
+AnimalZooo
+Climber
+Animal
+Bird
+ClimbingMonkey
+Ape
+Monkey
+Swimmable
+Fish
+Primate
+Flyable
